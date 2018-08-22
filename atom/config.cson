@@ -1,0 +1,26 @@
+"*":
+  "autocomplete-paths":
+    enableHtmlSupport: true
+  autosave:
+    enabled: true
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+  "double-tag":
+    allowEndTagSync: true
+  "exception-reporting":
+    userId: "cb0d4ddc-1915-4461-af71-7e3c0e7b53e9"
+  "linter-jslint":
+    disableWhenNoJslintrcFileInPath: true
+  "linter-ui-default":
+    showPanel: true
+  "prettier-atom":
+    formatOnSaveOptions: {}
+    useEslint: true
+  "spell-check":
+    addKnownWords: true
+  welcome:
+    showOnStartup: false
