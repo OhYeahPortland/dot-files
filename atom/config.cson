@@ -4,6 +4,9 @@
   autosave:
     enabled: true
   core:
+    disabledPackages: [
+      "autosave"
+    ]
     telemetryConsent: "limited"
     themes: [
       "atom-dark-ui"
