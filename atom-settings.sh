@@ -2,8 +2,9 @@
 set -e
 DIR=$(dirname "${BASH_SOURCE[0]}")
 echo $DIR
-ln -s -f $PWD/atom/styles.less ~/.atom/styles.less
 
+# setting up the sym links
+ln -s -f $PWD/atom/styles.less ~/.atom/styles.less
 ln -s -f $PWD/atom/keymap.cson ~/.atom/keymap.cson
 ln -s -f $PWD/atom/config.cson ~/.atom/config.cson
 
