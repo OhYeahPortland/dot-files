@@ -6,6 +6,7 @@
   core:
     disabledPackages: [
       "autosave"
+      "markdown-preview"
     ]
     telemetryConsent: "limited"
     themes: [
@@ -19,7 +20,7 @@
   "linter-jslint":
     disableWhenNoJslintrcFileInPath: true
   "linter-ui-default":
-    showPanel: true
+    panelHeight: 124
   "prettier-atom":
     formatOnSaveOptions: {}
     useEslint: true
