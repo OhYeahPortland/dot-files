@@ -19,8 +19,7 @@
     userId: "cb0d4ddc-1915-4461-af71-7e3c0e7b53e9"
   "linter-jslint":
     disableWhenNoJslintrcFileInPath: true
-  "linter-ui-default":
-    panelHeight: 124
+  "linter-ui-default": {}
   "prettier-atom":
     formatOnSaveOptions: {}
     useEslint: true
