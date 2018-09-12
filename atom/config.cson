@@ -17,6 +17,8 @@
     allowEndTagSync: true
   "exception-reporting":
     userId: "cb0d4ddc-1915-4461-af71-7e3c0e7b53e9"
+  "git-blame":
+    columnWidth: 286
   "linter-jslint":
     disableWhenNoJslintrcFileInPath: true
   "linter-ui-default": {}
